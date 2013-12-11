@@ -1,8 +1,10 @@
+[![Code Climate](https://codeclimate.com/github/sprestage/auth.png)](https://codeclimate.com/github/sprestage/auth)
+
 Rails Authentication from Scratch
 -------
 
-This was a practice exercise for the CodeFellows Ruby on Rails bootcamp.  I 
-created authentication in a fresh Rails app from scratch, by following along with 
+This was a practice exercise for the CodeFellows Ruby on Rails bootcamp.  I
+created authentication in a fresh Rails app from scratch, by following along with
 RailsCast #250.  I used rails v3.2.14.  This is otherwise a default rails app,
 with nothing omitted when performing 'rails _3.2.14_ new auth'.
 
@@ -10,7 +12,7 @@ This exercise was nice and straightforward.  I am glad to have a simple, working
 example of authentication handy while I try using packages to implement auth in
 my projects.  Since I will be accessing this repo as a default example later, I
 will be leaving the rest of the default README in place, as usually I delete it
-right off.  
+right off.
 -sprestage  10/22/13.
 
 
